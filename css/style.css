@@ -6,8 +6,6 @@
 body {
     margin: 0;
     padding: 0;
-    margin-bottom: 15rem;
-
 }
 
 nav {
@@ -282,3 +280,25 @@ a:active {
     height: 300px;
     width: 100%;
 } */
+
+
+.footer-color{
+    border-top: 0.5px solid rgb(238, 227, 227);
+    /* background-color: rgb(243, 243, 242); */
+    padding: 1.5rem;
+}
+
+.footer-link-design{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-link-design:hover{
+    text-decoration: underline;
+    color: rgb(56, 51, 51);
+}
+
+body {
+    overflow-x: hidden;
+  }
+  
