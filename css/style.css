@@ -45,12 +45,12 @@ nav {
     border-bottom-right-radius: 60px;
 } */
 
-.btn-primary {
+.btn-color {
     background-color: #046c34;
     color: white;
 }
 
-.btn-primary:hover {
+.btn-color:hover {
     background-color: #0b8846;
     color: white;
 }
@@ -76,11 +76,6 @@ button a {
 .custom-size img {
     width: 150px;
 }
-
-/* .about-photo{
-    width: 550px;
-    height: 500px;
-} */
 
 
 .places-photo-size {
